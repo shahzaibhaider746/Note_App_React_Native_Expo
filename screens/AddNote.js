@@ -13,7 +13,7 @@ const AddNote = () => {
     text: ""
   });
 
-// asdjkfhksjfj asdasd
+// asdjkfhksjfj asdasd asdfasdasdasda
   useEffect(() => {
     const backAction = () => {
       if (formData.text === "") return false;

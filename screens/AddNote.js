@@ -13,8 +13,8 @@ const AddNote = () => {
     text: ""
   });
 
-// asdjkfhksjfj asdasd asdfasdasdasda asdasd sdfsd asdasdasdasdzzxczxczxczx
-  useEffect(() => {
+// asdjkfhksjfj asdasd asdfasdasdasda asdasd sdfsd asdasdasdasdzzxczxczxczx  asdfasdf
+  useEffect(() => { 
     const backAction = () => {
       if (formData.text === "") return false;
       Alert.alert("Your note has not been saved.", "Do you want to save it?", [{ text: "Yes", onPress: saveNote }, { text: "No", onPress: navigation.goBack }], { cancelable: true });

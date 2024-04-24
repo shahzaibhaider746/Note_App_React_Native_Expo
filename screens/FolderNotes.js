@@ -7,7 +7,7 @@ import NoteCard from '../components/NoteCard';
 import ActionButton from '../components/ActionButton';
 import { useGlobalContext } from '../context/context';
 import { useSafeAreaFrame, useSafeAreaInsets } from 'react-native-safe-area-context';
-import { getDefaultHeaderHeight } from '@react-navigation/elements';
+import { getDefaultHeaderasdasdasdHeight } from '@react-navigation/elements';
 import Icon from 'react-native-vector-icons/Ionicons';
 
 const FolderNotes = () => {

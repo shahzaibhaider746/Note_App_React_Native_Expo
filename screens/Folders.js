@@ -7,7 +7,7 @@ import DraggableFlatList from 'react-native-draggable-flatlist';
 import theme from '../style/theme';
 import FolderCard from '../components/FolderCard';
 import { useFocusEffect, useNavigation } from '@react-navigation/native';
-//asd;jas;ldj;lk
+
 const Folders = () => {
   const [folders, setFolders] = useState([]);
   const [createFolderModal, setCreateFolderModal] = useState(false);

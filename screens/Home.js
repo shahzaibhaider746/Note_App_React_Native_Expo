@@ -4,7 +4,7 @@ import Notes from '../components/Notes'
 import ActionButton from '../components/ActionButton'
 import NotesPageHeader from '../components/NotesPageHeader'
 import { useNavigation } from '@react-navigation/native'
-
+asdasdasdas
 const Home = () => {
 
   const [selectedNotes, setSelectedNotes] = useState([]);

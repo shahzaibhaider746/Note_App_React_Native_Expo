@@ -4,7 +4,7 @@ import { useGlobalContext } from '../context/context';
 import theme from '../style/theme';
 import { storeData } from '../utils/storage';
 import Modal from '../components/Modal';
-sdfsdfsdf
+
 const LabelsManager = () => {
   const [labelSearchInput, setlabelSearchInput] = useState("");
   const { notes, setNotes, labels, setLabels } = useGlobalContext();

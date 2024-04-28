@@ -8,7 +8,7 @@ import Icon from 'react-native-vector-icons/Ionicons';
 import { convertToXTimeAgo } from '../utils/dateformat';
 import { useGlobalContext } from '../context/context';
 import Modal from '../components/Modal';
-
+asd
 
 const TrashNoteCard = ({ note, setNoteModalId }) => {
   return (

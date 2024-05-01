@@ -77,19 +77,6 @@ A notes app built using React native for cross-platform mobile devices.
 3. Download expo app on the mobile device and scan the QR code generated on terminal.
 4. For running on browser, press w on terminal and it will launch the browser.
 
-## Contributing
-
-- Feature Requests:  
-  Want a new feature or improve already existing feature in the app? Feel free to create an issue at [issue tracker](https://github.com/aayush301/react-native-notes-app/issues) about the feature you want to see in the app.
-- Bug reports:  
-  Found a bug in the application? Feel free to create a new issue at [issue tracker](https://github.com/aayush301/react-native-notes-app/issues) stating the clear description of the bug.
-
-- Code contributions:  
-  Want to contribute code to the project? You can do so by either correcting bugs or adding new features which can be found in the issues tab and then submitting a Pull Request referencing that issue.
-
-- Security vulnerabilities:  
-  Discovered a security vulnerability within this project? Please send an email to Aayush (author) at aayush5521186@gmail.com.
-
 ## Useful Links
 
 - This project
@@ -113,5 +100,5 @@ A notes app built using React native for cross-platform mobile devices.
 
 ## Contact
 
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+- Email:  devshahzaib63@gmail.com
+
